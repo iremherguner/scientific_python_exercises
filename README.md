@@ -1,4 +1,4 @@
-# Exploring Scientific Python: Udemy Course Notebooks and Kaggle Exercises
+# Exploring Scientific Python: Udemy Course Notebooks and Kaggle Exercises
 
 Welcome to my GitHub repository featuring a collection of Jupyter notebooks from my journey through the "Scientific Python" Udemy course by Mike X Cohen, complemented by additional coding exercises from Kaggle.
 
